@@ -1,4 +1,4 @@
-# 🚀 Naim x Official Portfolio
+# 🚀 Portfolio using HTML & CSS only
 
 > **Clean, Simple, and Pure HTML & CSS Portfolio**
 
